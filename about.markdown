@@ -1,18 +1,9 @@
 ---
-layout: page
+layout: archive
 title: About
 permalink: /about/
 ---
+# Hi! I'm Saif Tariq!
+I'm a current Computer Information Systems student studying at Post Univeristy for my bachelors degree. I hope to one day graduate with improved coding skills to become a game developer and work for one of my dream companies like Sony or CD Projekt Red. I;ve always been interested in technology and video games in general and now hope to one day enter the field to help create new experiences for the next generation of gamers.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I'm very techh savvy and love to self improve as well as always researching new topics or events happening within my field.
